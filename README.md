@@ -4,4 +4,4 @@ testing CI
 [![LICENSE](https://img.shields.io/github/license/LisaB96/SEMAssignment6.svg?style=flat-square)](https://github.com/LisaB96/SEMAssignment6/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/LisaB96/SEMAssignment6/all.svg?style=flat-square)](https://github.com/LisaB96/SEMAssignment6/releases)
 # DevOps
-![GitHub branch status](https://img.shields.io/github/checks-status/LisaB96/SEMAssignment6/develop)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LisaB96/SEMAssignment6/.github%2Fworkflows%2Fmain.yml?branch=develop)
