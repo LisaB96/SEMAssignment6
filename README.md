@@ -5,3 +5,4 @@ testing CI
 [![Releases](https://img.shields.io/github/release/LisaB96/SEMAssignment6/all.svg?style=flat-square)](https://github.com/LisaB96/SEMAssignment6/releases)
 # DevOps
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LisaB96/SEMAssignment6/.github%2Fworkflows%2Fmain.yml?branch=develop)
+test
